@@ -1,4 +1,3 @@
-%% brunito boludo
 clear all
 close all
 clc
