@@ -58,7 +58,6 @@ fprintf('\n');
 fprintf('Análise de frequência \n');
 fprintf('fd mínimo = %.2f MHz.mm \n',fd_min);
 fprintf('fd máximo = %.2f MHz.mm \n',fd_max);
-fprintf('f = %.2f Hz\n',f(2000));
 %% ================================
 % Análise velocidade de fase
 c_min 	= 2000; % m/s
